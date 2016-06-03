@@ -3,6 +3,11 @@
 #Style Guide
 - Use four spaces for indentation, NOT TABS (I'm talking to you, Richard).
 
+#Use three ,,,
+- Do you know what tres comas means in English?
+- Three commas
+- No. Three commas.
+
 <img src="https://cdn.meme.am/instances/500x/40336443.jpg"></img>
 
 <br>
